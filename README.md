@@ -1,6 +1,3 @@
-Berikut versi parafrase dari README tersebut:
-
----
 
 # Sistem Pendukung Keputusan untuk Pemilihan Rumah Makan Mahasiswa Universitas Andalas
 

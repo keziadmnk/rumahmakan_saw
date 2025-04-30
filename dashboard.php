@@ -157,8 +157,8 @@ require_once('template/header.php');
                         <div class="col mr-2">
                             <div class="h5 mb-0 font-weight-bold text-gray-800"><a href="tentang.php" class="text-dashboard">Buka Data Tentang Kami</a></div>
                         </div>
-                        <div class="col-auto">
-                            <i class="fas fa-chart-area fa-2x text-gray-300"></i>
+                        <div class="col-auto"> 
+                            <i class="fas fa-fw fa-user fa-2x text-gray-300"></i>
                         </div>
                     </div>
                 </div>
